@@ -49,6 +49,6 @@ Autograder has been developed at the University of Stavanger.
 6. Wait for the teaching staff to confirm your registration.
 
 7. You will get your own repository under the
-   [uis-dat520-s2019](github.com/uis-dat520-s2019) organization on
+   [uis-dat520-s2019](https://github.com/uis-dat520-s2019) organization on
    GitHub after your registration has been approved. You will also have access
    to the feedback pages for this course on Autograder.
